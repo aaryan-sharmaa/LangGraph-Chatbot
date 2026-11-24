@@ -1,0 +1,7 @@
+
+streamlit
+langgraph
+langchain-core
+langchain-groq
+python-dotenv
+langgraph-checkpoint-sqlite>=3.0.1
